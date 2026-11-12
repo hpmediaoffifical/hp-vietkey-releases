@@ -3,7 +3,7 @@
 Bộ gõ tiếng Việt Telex cho Windows 10 / 11, và macOS (bản thử nghiệm). Một file cài đặt nhỏ gọn, không cần cài thêm gì.
 
 - **Windows:** [tải bản mới nhất](https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/latest)
-- **macOS (thử nghiệm):** [tải bản 0.1.0 beta](https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/tag/mac-v0.1.0-beta1)
+- **macOS (thử nghiệm):** [tải bản 0.2.0 (thử nghiệm)](https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/tag/mac-v0.2.0)
 
 - **Tác giả:** Nguyễn Hoàng Phụng ([Facebook](https://www.facebook.com/hoangphung.nguyen1809/))
 - **Nhà phát triển:** HP Media ([hpvn.media](https://hpvn.media/))
@@ -22,12 +22,12 @@ File chưa được ký số nên Windows SmartScreen có thể hiện "Windows 
 
 Cần macOS 12 trở lên, chạy trên cả chip Apple và Intel.
 
-1. Tải file `.dmg` ở [trang bản thử nghiệm](https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/tag/mac-v0.1.0-beta1), mở ra và kéo **HP VietKey** vào **Applications**.
+1. Tải file `.dmg` ở [trang bản thử nghiệm](https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/tag/mac-v0.2.0), mở ra và kéo **HP VietKey** vào **Applications**.
 2. Mở HP VietKey. Ứng dụng chưa được Apple công chứng nên lần đầu macOS sẽ chặn: vào **Cài đặt hệ thống > Quyền riêng tư & Bảo mật** và bấm **Vẫn mở** (Open Anyway).
 3. Cấp quyền **Trợ năng** (Accessibility) khi được hỏi. Biểu tượng trên thanh menu đổi từ `!` sang `V` là gõ được.
 4. Phím chuyển Việt / Anh: `Control + Shift`.
 
-Bản macOS chưa có cửa sổ cài đặt (mọi tùy chọn nằm trong menu), công cụ chuyển mã và tự cập nhật.
+Bản macOS tự cập nhật từ 0.2.0 trở đi; chưa có cửa sổ cài đặt (mọi tùy chọn nằm trong menu) và công cụ chuyển mã.
 
 ## Tính năng nổi bật
 
