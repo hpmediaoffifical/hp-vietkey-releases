@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.3.0/HPVietKey-mac-0.3.0.zip",
-  "sha256": "4f1438290989a9218c94833ea0346cc72bc859d002938d6187c4e28fed47474c",
-  "notes": "- Tự động cập nhật: có bản mới thì tự tải ngầm, kiểm tra mã SHA-256 và chữ ký, rồi tự cài khi bạn không dùng bàn phím và chuột trong 1 phút. Tắt được trong menu.\n- Menu có mục \"Cập nhật lên ... ngay (đã tải xong)\" khi bản mới đã sẵn sàng.\n- Sửa lỗi: gõ có dấu, xóa vài chữ rồi gõ lại thì mất dấu (\"tieengs\", xóa \"ng\", gõ lại \"ngs\" giờ ra \"tiếng\").\n- Mới: hai phím gõ ngược thứ tự thì tự sửa khi bấm dấu cách (\"phnaaf\" thành \"phần\"). Bấm Backspace ngay sau đó để lấy lại chữ đã gõ.\n- Lưu ý: bản Mac chưa được Apple ký số, nên sau mỗi lần cập nhật macOS sẽ hỏi lại quyền Trợ năng (Accessibility); HP VietKey sẽ nhắc bạn bật lại."
+  "version": "0.3.1",
+  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.3.1/HPVietKey-mac-0.3.1.zip",
+  "sha256": "c420c07d48656daacaba73c26b2ac421292e17fb5a73c1dc3efc4f2998f17527",
+  "notes": "- Mở HP VietKey ngay trong ổ đĩa tải về (.dmg) thì có nút \"Cài đặt\": tự chép vào Applications, thay bản cũ (chuyển vào Thùng rác) và mở bản đã cài.\n- Hết cảnh nhiều biểu tượng sau khi cài nhiều lần: chỉ một bản chạy (bản mở sau cùng thắng), tự dọn các bản cũ như \"HP VietKey 2\" và thư mục cập nhật dở, tự tháo ổ đĩa tải về, tự xóa các dòng HP VietKey cũ trong danh sách Trợ năng.\n- Kiểm tra bản mới 4 giờ một lần thay vì mỗi ngày một lần."
 }
