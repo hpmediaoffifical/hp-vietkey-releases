@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.2.0/HPVietKey-mac-0.2.0.zip",
-  "sha256": "987b0994c50c861ae694d8f953c51e5333ae4d193a1381aea281997ac725fb99",
-  "notes": "- Tự kiểm tra bản mới mỗi ngày; có bản mới thì hiện chấm xanh trên biểu tượng và mục \"Có bản mới\" đầu menu.\n- Cập nhật bằng một lần bấm: tự tải, kiểm tra mã SHA-256 và chữ ký, thay ứng dụng và khởi động lại.\n- Menu: \"Kiểm tra bản mới...\" và tùy chọn \"Tự kiểm tra bản mới mỗi ngày\"."
+  "version": "0.3.0",
+  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.3.0/HPVietKey-mac-0.3.0.zip",
+  "sha256": "4f1438290989a9218c94833ea0346cc72bc859d002938d6187c4e28fed47474c",
+  "notes": "- Tự động cập nhật: có bản mới thì tự tải ngầm, kiểm tra mã SHA-256 và chữ ký, rồi tự cài khi bạn không dùng bàn phím và chuột trong 1 phút. Tắt được trong menu.\n- Menu có mục \"Cập nhật lên ... ngay (đã tải xong)\" khi bản mới đã sẵn sàng.\n- Sửa lỗi: gõ có dấu, xóa vài chữ rồi gõ lại thì mất dấu (\"tieengs\", xóa \"ng\", gõ lại \"ngs\" giờ ra \"tiếng\").\n- Mới: hai phím gõ ngược thứ tự thì tự sửa khi bấm dấu cách (\"phnaaf\" thành \"phần\"). Bấm Backspace ngay sau đó để lấy lại chữ đã gõ.\n- Lưu ý: bản Mac chưa được Apple ký số, nên sau mỗi lần cập nhật macOS sẽ hỏi lại quyền Trợ năng (Accessibility); HP VietKey sẽ nhắc bạn bật lại."
 }
