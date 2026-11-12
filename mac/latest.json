@@ -1,6 +1,6 @@
 {
-  "version": "0.3.3",
-  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.3.3/HPVietKey-mac-0.3.3.zip",
-  "sha256": "5b6dcf59f79f7ea7166d06373f33f89c1117822e66f8b41e22a0558832f3e047",
-  "notes": "- Chuẩn bị chuyển sang chữ ký Developer ID của Apple: bộ tự cập nhật nhận thêm bản do HP VietKey ký bằng Developer ID. Bản sau sẽ được Apple công chứng, macOS không chặn khi mở lần đầu. Lần chuyển đó phải bật lại quyền Trợ năng một lần."
+  "version": "0.3.4",
+  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.3.4/HPVietKey-mac-0.3.4.zip",
+  "sha256": "e8a60009a112f28634ea28b076645560288352358771fd8263a7c63fc40d010c",
+  "notes": "- Ký bằng Developer ID của Apple và được Apple công chứng: macOS không còn chặn khi mở lần đầu, không cần vào Quyền riêng tư & Bảo mật bấm \"Vẫn mở\" nữa. Lần cập nhật lên 0.3.4 phải bật lại quyền Trợ năng một lần; sau đó quyền được giữ qua các lần cập nhật."
 }
