@@ -1,6 +1,6 @@
 {
-  "version": "0.3.2",
-  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.3.2/HPVietKey-mac-0.3.2.zip",
-  "sha256": "94ad029b2b31e104a1b69dd3bdb9c5fb1a8c7927e5e78da4d39fe66dd886e51a",
-  "notes": "- Ký bằng chứng chỉ riêng của HP VietKey, giống nhau ở mọi bản: từ bản này, cập nhật xong không phải bật lại quyền Trợ năng nữa (lần cập nhật lên 0.3.2 vẫn phải bật lại một lần). Bộ tự cập nhật chỉ nhận bản ký bằng đúng chứng chỉ này.\n- Gõ dư phím đầu vẫn nhận dấu: \"hhaafn\" ra \"hhần\", \"ttooi\" ra \"ttôi\", \"nnguowfi\" ra \"nngười\" (chữ dư giữ nguyên để bạn thấy và xóa). Không áp dụng cho \"dd\" (đ) và từ tiếng Anh."
+  "version": "0.3.3",
+  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.3.3/HPVietKey-mac-0.3.3.zip",
+  "sha256": "5b6dcf59f79f7ea7166d06373f33f89c1117822e66f8b41e22a0558832f3e047",
+  "notes": "- Chuẩn bị chuyển sang chữ ký Developer ID của Apple: bộ tự cập nhật nhận thêm bản do HP VietKey ký bằng Developer ID. Bản sau sẽ được Apple công chứng, macOS không chặn khi mở lần đầu. Lần chuyển đó phải bật lại quyền Trợ năng một lần."
 }
