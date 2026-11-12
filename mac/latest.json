@@ -1,0 +1,6 @@
+{
+  "version": "0.2.0",
+  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.2.0/HPVietKey-mac-0.2.0.zip",
+  "sha256": "987b0994c50c861ae694d8f953c51e5333ae4d193a1381aea281997ac725fb99",
+  "notes": "- Tự kiểm tra bản mới mỗi ngày; có bản mới thì hiện chấm xanh trên biểu tượng và mục \"Có bản mới\" đầu menu.\n- Cập nhật bằng một lần bấm: tự tải, kiểm tra mã SHA-256 và chữ ký, thay ứng dụng và khởi động lại.\n- Menu: \"Kiểm tra bản mới...\" và tùy chọn \"Tự kiểm tra bản mới mỗi ngày\"."
+}
