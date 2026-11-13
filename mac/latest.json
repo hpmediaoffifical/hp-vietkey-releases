@@ -1,6 +1,6 @@
 {
-  "version": "0.3.4",
-  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.3.4/HPVietKey-mac-0.3.4.zip",
-  "sha256": "e8a60009a112f28634ea28b076645560288352358771fd8263a7c63fc40d010c",
-  "notes": "- Ký bằng Developer ID của Apple và được Apple công chứng: macOS không còn chặn khi mở lần đầu, không cần vào Quyền riêng tư & Bảo mật bấm \"Vẫn mở\" nữa. Lần cập nhật lên 0.3.4 phải bật lại quyền Trợ năng một lần; sau đó quyền được giữ qua các lần cập nhật."
+  "version": "0.3.5",
+  "url": "https://github.com/hpmediaoffifical/hp-vietkey-releases/releases/download/mac-v0.3.5/HPVietKey-mac-0.3.5.zip",
+  "sha256": "926da841b9d5b3635a50b71899dcd8fd685c6aa424bb2a045905eea8cb89a67f",
+  "notes": "- Sửa lỗi: gõ xong một chữ, gõ thêm dấu cách, dấu câu hoặc chữ khác, rồi lùi lại sửa dấu thì dấu không ăn (\"giản\", cách, gõ thêm một chữ, lùi lại, gõ x ra \"giảnx\"; giờ ra \"giãn\"). Bộ gõ nhớ các chữ vừa gõ, lùi về chữ nào cũng sửa dấu được. Đã thử tự động 88.700 cách lùi lại đổi dấu trên mọi âm tiết thông dụng.\n- Sửa lỗi đôi lúc gõ dấu không ăn (\"võ\" gõ thêm r ra \"võr\" thay vì \"vỏ\", \"gianr\" không thành \"giản\"): trong lúc bộ gõ lưu cài đặt xuống đĩa, phím vừa gõ có thể bị cho đi qua mà không bỏ dấu. Việc lưu giờ không còn chặn bàn phím.\n- Sửa lỗi mất chữ \"a\" khi gõ dấu nhanh (\"Là la lá, con cá vàng\" ra \"l la l, con c vng\"): khi phím dấu được nhấn lúc phím A chưa nhả, macOS bỏ mất chữ \"à\". Bộ gõ giờ gửi chữ bằng một mã phím không có trên bàn phím nào.\n- Sửa lỗi: lỡ gõ dư phím rồi xóa đi gõ lại thì mất dấu (\"Dass\", xóa về \"D\", gõ lại \"aaus\" trước đây ra \"Dâus\", giờ ra \"Dấu\"). Đã thử tự động với mọi âm tiết thông dụng: 74.505 cách xóa rồi gõ lại đều ra đúng như gõ thẳng."
 }
